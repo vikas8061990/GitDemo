@@ -47,6 +47,12 @@ public class day1 {
 		System.out.println("The URL of application is ");
 		System.out.println("This is demo2 method");
 	}
+	@Test
+	void demo7() {
+		System.out.println("The URL of application is ");
+		System.out.println("This is demo2 method");
+	}
+
 
 	@Test
 	void demo5() {
